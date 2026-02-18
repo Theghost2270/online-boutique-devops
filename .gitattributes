@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
+=======
+# This file configures the git settings for this repository.
+
+# Converts "CR + LF" to "LF", for all "text" files — for local files on all OSes and files pushed to the remote repo.
+* text=auto eol=lf
+>>>>>>> 97fc52fdb48145fc0b45193791d434e3a153dfc7
